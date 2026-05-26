@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=babita-bhatia29" alt="babita-bhatia29" /></a> </p>
 
-- 🌱 I’m currently learning **Django,Java**
+- 🌱 I’m currently learning **DataSciences with Gen AI**
 
-- 💬 Ask me about **HTML,CSS,JS,Django,Bootstrap,python**
+- 💬 Ask me about **HTML,CSS,JS,Django,Bootstrap,python,numpy, pandas,matplotlib,seaborn,etc**
 
 - 📫 How to reach me **bhatiababita296@gmail.com**
 
